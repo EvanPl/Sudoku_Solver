@@ -1,4 +1,4 @@
-# Program that uses recursion to solve a Sudoku Board
+## &#x1F537; `Program that uses recursion to solve a Sudoku Board`  &#x1F537;
 ## Example:
 ## Input
 780 | 400 | 120<br>
