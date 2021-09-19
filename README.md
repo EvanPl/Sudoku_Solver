@@ -1,4 +1,4 @@
-# Program that uses recursion solves a Sudoku Board
+# Program that uses recursion to solve a Sudoku Board
 ## Example:
 ## Input
 780 | 400 | 120<br>
