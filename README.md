@@ -1,6 +1,5 @@
 ## &#x1F537; `Program that uses recursion to solve a Sudoku Board`  &#x1F537;
-## Example:
-## Input
+## Example Input:
 780 | 400 | 120<br>
 600 | 075 | 009<br>
 000 | 601 | 078<br>
@@ -10,7 +9,7 @@
 070 | 300 | 012<br>
 120 | 007 | 400<br>
 049 | 206 | 007
-## Output
+## Example Output
 785 | 439 | 126<br>
 612 | 875 | 349<br>
 493 | 621 | 578<br>
